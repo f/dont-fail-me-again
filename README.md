@@ -14,6 +14,11 @@ Darth Vader says **"DON'T FAIL ME AGAIN"** when you made a mistake in your code.
 npm install dont-fail-me-again --save-dev
 ```
 
+If ubuntu, install `mpg123`
+```bash
+sudo apt-get install mpg123 -y
+```
+
 ## Usage
 
 ```js
