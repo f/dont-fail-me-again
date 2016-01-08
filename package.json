@@ -1,0 +1,20 @@
+{
+  "name": "dont-fail-me-again",
+  "version": "1.0.0",
+  "description": "Node.js Error Handler from the Dark Side",
+  "main": "dfma.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f/dont-fail-me-again.git"
+  },
+  "keywords": [],
+  "author": "Fatih Kadir Akın",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f/dont-fail-me-again/issues"
+  },
+  "homepage": "https://github.com/f/dont-fail-me-again#readme"
+}
