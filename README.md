@@ -41,10 +41,6 @@ ReferenceError: a_function_does_not_exists is not defined
     at ...
 ```
 
-Troubleshoot
-
-- It works only on OS X for now. It can be implemented to Linux easily, but I've no time to.
-
 > May the force be with you.
 
 ## License
